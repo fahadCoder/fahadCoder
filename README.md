@@ -1,9 +1,12 @@
 # 💫 About Me:
-MSc Artificial Intelligence @ FAU Erlangen (2024–present), focused on building applied CV/ML systems. <br>Computer Vision work: MTCNN + FaceNet + SVM recognition, VLAD/SVM writer identification, and Xception-based transfer learning. <br>Former Software Engineer (TeckLogics): React/TypeScript frontends, Node.js/NestJS APIs, plus GraphQL + PostgreSQL integrations. <br>Seeking AI/ML Engineer roles with a strong software development edge
+I’m an MSc AI student at FAU Erlangen  who enjoys turning ML ideas into working products.
+My recent work spans computer vision projects like FaceNet/MTCNN recognition, writer identification with VLAD/SVM, and Xception-based transfer learning.
+Before that, I built production web systems at TeckLogics using React/TypeScript, Node/NestJS, GraphQL, and PostgreSQL.
+I’m looking for AI/ML roles where I can build models and also engineer reliable, scalable software around them.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raja Fahad Israr Ahmed ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajafahadisrar9@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-fahad-israr-ahmed-9a38b3214 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajafahadisrar9@gmail.com) 
 
 # 💻 Tech Stack:
 
