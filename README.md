@@ -1,65 +1,89 @@
-# 💫 About Me:
-I’m an MSc AI student at FAU Erlangen  who enjoys turning ML ideas into working products.
-My recent work spans computer vision projects like FaceNet/MTCNN recognition, writer identification with VLAD/SVM, and Xception-based transfer learning.
-Before that, I built production web systems at TeckLogics using React/TypeScript, Node/NestJS, GraphQL, and PostgreSQL.
-I’m looking for AI/ML roles where I can build models and also engineer reliable, scalable software around them.
 
+# Hi, I'm Fahad! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-fahad-israr-ahmed-9a38b3214 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajafahadisrar9@gmail.com) 
+### MSc Artificial Intelligence @ FAU Erlangen–Nürnberg | Python Developer | AI/ML & MLOps
 
+## 💫 About Me
 
+I'm an **MSc Artificial Intelligence student at Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU)** with a background in **Python software development, automation, and engineering solutions**. I enjoy connecting machine learning with practical software systems—from experimenting with models to building reusable tools and reliable workflows.
+
+- 🤖 **AI/ML:** Working with PyTorch, TensorFlow, Keras, and scikit-learn; interested in deep learning, computer vision, and applied machine learning.
+- ⚙️ **Automation & software engineering:** Experience building Python scripts, proof-of-concept applications, API integrations, data validation tools, and monitoring workflows.
+- 🚀 **MLOps:** Familiar with experiment tracking, hyperparameter optimization, versioning, CI/CD, Docker, and ML deployment workflows.
+- ☁️ **Data & cloud:** Experience with data processing and ETL concepts, Apache Airflow, AWS, and Amazon SageMaker.
+- 🎯 **Open to opportunities** in AI/ML engineering, MLOps, Python development, and software automation.
+
+## 💼 Experience Highlights
+
+**Systems & Automation Engineer — Tecezee (Adidas HQ)** | *May 2024 – Dec 2025*
+- Automated repetitive IT and operational tasks using Python.
+- Developed AI-assisted workflows to analyze support data and help identify recurring issues.
+- Integrated APIs and internal tools; built scripts for data validation, reporting, and system monitoring.
+
+**Software Engineer — Engineering & Services (Pvt) Ltd** | *Mar 2023 – Apr 2024*
+- Built Python applications and proof-of-concept solutions for engineering and business needs.
+- Developed reusable automation components, backend logic, and data processing modules.
+- Worked on API integration, testing, debugging, and maintainable software design.
 
 ## 💻 Tech Stack
 
-### 🤖 AI / ML & Data
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+### 🧠 Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🛠️ Production ML Engineering
-<!-- Curated to match AI/ML roles: serving, integration, data layer, delivery -->
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### 🔬 MLOps & Experiment Tracking
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-0A1D32?style=for-the-badge)
+![Hyperopt](https://img.shields.io/badge/Hyperopt-5D3FD3?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
- ### Frontend
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+**Also:** Model registries · Hyperparameter optimization · CI/CD · Experiment tracking
 
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fahadCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fahadCoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔧 Software Engineering, APIs & Data Pipelines
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Also:** Python scripting · Automation · ETL pipelines · Data validation · Testing & debugging
+
+### ☁️ Cloud, Monitoring & Visualization
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+## 🎓 Education
+
+**MSc Artificial Intelligence — FAU Erlangen–Nürnberg** | *Apr 2024 – Present*  
+Relevant coursework: Pattern Recognition, Computer Vision, Machine Learning, Deep Learning, Machine Learning for Time Series.
+
+**BS Computer Science — Riphah International University** | *Jul 2019 – Oct 2023*
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-fahad-israr-ahmed-9a38b3214)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajafahadisrar9@gmail.com)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fahadCoder&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadCoder&theme=dark&hide_border=false&layout=compact)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=fahadCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Profile Views](https://visitcount.itsvg.in/api?id=fahadCoder&icon=0&color=0)](https://visitcount.itsvg.in)
