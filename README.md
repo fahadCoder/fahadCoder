@@ -13,17 +13,7 @@ I'm an **MSc Artificial Intelligence student at Friedrich-Alexander-Universität
 - ☁️ **Data & cloud:** Experience with data processing and ETL concepts, Apache Airflow, AWS, and Amazon SageMaker.
 - 🎯 **Open to opportunities** in AI/ML engineering, MLOps, Python development, and software automation.
 
-## 💼 Experience Highlights
 
-**Systems & Automation Engineer — Tecezee (Adidas HQ)** | *May 2024 – Dec 2025*
-- Automated repetitive IT and operational tasks using Python.
-- Developed AI-assisted workflows to analyze support data and help identify recurring issues.
-- Integrated APIs and internal tools; built scripts for data validation, reporting, and system monitoring.
-
-**Software Engineer — Engineering & Services (Pvt) Ltd** | *Mar 2023 – Apr 2024*
-- Built Python applications and proof-of-concept solutions for engineering and business needs.
-- Developed reusable automation components, backend logic, and data processing modules.
-- Worked on API integration, testing, debugging, and maintainable software design.
 
 ## 💻 Tech Stack
 
